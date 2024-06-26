@@ -33,7 +33,7 @@ of (common) model restrictions on results.
 
 <a href="/papers/TaxFamilies.pdf">__Collective Households and the Limits to Redistribution__</a><br>
 With Carlos da Costa <br><br>
-_In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken._ Tolstoy, Anna Karenina<br><br>
+_In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken._<br> Tolstoy, Anna Karenina<br><br>
 *Abstract*: This paper explores optimal distributive policies using a Collective approach to household
 behavior. This approach allows individual preferences for each spouse, which is crucial when
 examining policies targeted to women, like Mexico’s Prospera or Brazil’s Bolsa Família programs.
