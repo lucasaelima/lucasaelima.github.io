@@ -8,9 +8,9 @@ menuorder: 3
 ## Working Papers
 
 <a href="/papers/ZeroShares.pdf">__Flexible Demand Estimation and Zero Market Shares__</a>
-<details style="display:inline">
+<details>
 <summary><i>Abstract</i></summary>
-This paper develops a flexible discrete-choice demand framework for aggregate data sets
+<p> This paper develops a flexible discrete-choice demand framework for aggregate data sets
 that extends Berry, Levinsohn, and Pakes (1995) and the Pure Characteristics Demand Model of
 Berry and Pakes (2007). I provide a simple, computationally tractable, asymptotically normal
 estimator based on two contributions: a globally-convergent algorithm to recover utilities
@@ -18,6 +18,7 @@ from observed demand and a Quasi-Bayes approach that minimizes simulation varian
 framework accommodates zero market shares, which are a challenge for alternative approaches.
 I show that zeros in demand generate an endogenously censored model, which leads to moment
 inequalities. As an application, I study moving costs US internal migration data.
+</p>
 </details>
 
 <a href="/papers/DynamicPartial.pdf">__Counterfactual Analysis for Structural Dynamic Discrete Choice Models__</a><br>
