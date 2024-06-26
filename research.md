@@ -42,7 +42,7 @@ of (common) model restrictions on results.
 
 <a href="/papers/TaxFamilies.pdf">__Collective Households and the Limits to Redistribution__</a><br>
 With Carlos da Costa
-<details draggable=true>
+<details>
 <summary><i>Abstract</i></summary>
 <p>
 This paper explores optimal distributive policies using a Collective approach to household
@@ -61,7 +61,7 @@ approaches to the optimal taxation of couples. Finally, we parametrize and calib
 empirically evaluate the relevance of our theoretical findings. The ability to influence threat points
 has large effects on equilibrium allocations and the evaluation of optimal policies.
 </p>
-</details>
+</details><br>
 
 _In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken._
 <div style="text-align: right"> Tolstoy, Anna Karenina </div>
