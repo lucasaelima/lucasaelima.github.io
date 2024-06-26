@@ -1,0 +1,5 @@
+I"Ù<h2 id="working-papers">Working Papers</h2>
+
+<p><strong>Demand Estimation with Zeros: Moving Costs in the US</strong>
+Abstract: This paper develops a flexible discrete-choice demand framework for aggregate data sets that extends Berry, Levinsohn, and Pakes (1995) and the Pure Characteristics Demand Model of Berry and Pakes (2007). The framework accommodates zero market shares, which are a challenge for alternative approaches. I show that zeros in demand generate an endogenously censored model, which leads to moment inequalities. I provide a simple, computationally tractable, asymptotically normal estimator based on two contributions: a globally-convergent algorithm to recover utilities from observed demand and a Quasi-Bayes approach that minimizes simulation variance. As an application, I study moving costs and housing policies on US internal migration data. Moving costs are high and highly variable, which implies substantial benefits from targeted housing policies.</p>
+:ET

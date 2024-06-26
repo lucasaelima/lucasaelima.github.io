@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Lucas Lima
   avatar: homer.jpeg
-  bio: "Assistant Professor, Department of Economics PUC-Rio"
+  bio: "Assistant Professor<br>Department of Economics<br>PUC-Rio"
   email: lucas.lima@econ.puc-rio.br
   # Do not include the @ symbol in your Twitter username
   twitter: #username

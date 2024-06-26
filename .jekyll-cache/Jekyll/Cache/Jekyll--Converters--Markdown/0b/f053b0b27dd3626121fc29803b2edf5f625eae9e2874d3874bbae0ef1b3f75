@@ -1,0 +1,34 @@
+I"²<h2 id="working-papers">Working Papers</h2>
+
+<p><strong>Demand Estimation with Zeros: Moving Costs in the US</strong> <br />
+<em>Abstract</em>: This paper develops a flexible discrete-choice demand framework for
+aggregate data sets that extends Berry, Levinsohn, and Pakes (1995) and the
+Pure Characteristics Demand Model of Berry and Pakes (2007). The framework
+accommodates zero market shares, which are a challenge for alternative
+approaches. I show that zeros in demand generate an endogenously censored
+model, which leads to moment inequalities. I provide a simple, computationally
+tractable, asymptotically normal estimator based on two contributions: a
+globally-convergent algorithm to recover utilities from observed demand and a
+Quasi-Bayes approach that minimizes simulation variance. As an application, I
+study moving costs and housing policies on US internal migration data. Moving
+costs are high and highly variable, which implies substantial benefits from
+targeted housing policies.</p>
+
+<p><strong>Counterfactual Analysis for Structural Dynamic Discrete Choice Models</strong> <br />
+With Myrto Kalouptsidi, Yuichi Kitamura, and Eduardo Souza-Rodrigues <br />
+<em>Abstract</em>: Discrete choice data allow researchers to recover differences in utilities, but these differences may not
+suffice to identify policy-relevant counterfactuals of interest. In fact, in the case of dynamic discrete
+choice models, only a narrow set of counterfactuals are point-identified. In this paper, we explore
+how much one can learn about counterfactual outcomes of interest within this framework. We focus
+on the partial identification of counterfactuals, while allowing for (mild) model restrictions that can
+gradually shrink the identified set. We derive bounds for low-dimensional objects (such as average
+welfare) as arguments of optimization programs, along with a uniformly valid inference procedure.
+Furthermore, we develop new and tractable computational tools and algorithms suitable for dealing
+with high-dimensional problems like this. Finally, we illustrate in Monte Carlos, as well as an empirical
+exercise of firmsâ€™ export decisions, the informativeness of the identified sets, and we assess the impact
+of (common) model restrictions on results.</p>
+
+<p><strong>Collective Households and the Limits to Redistribution</strong> <br />
+With Carlos da Costa <br />
+<em>Abstract</em>: This paper develops a flexible discrete-choice demand framework for aggregate data sets that extends Berry, Levinsohn, and Pakes (1995) and the Pure Characteristics Demand Model of Berry and Pakes (2007). The framework accommodates zero market shares, which are a challenge for alternative approaches. I show that zeros in demand generate an endogenously censored model, which leads to moment inequalities. I provide a simple, computationally tractable, asymptotically normal estimator based on two contributions: a globally-convergent algorithm to recover utilities from observed demand and a Quasi-Bayes approach that minimizes simulation variance. As an application, I study moving costs and housing policies on US internal migration data. Moving costs are high and highly variable, which implies substantial benefits from targeted housing policies.</p>
+:ET
