@@ -42,7 +42,7 @@ of (common) model restrictions on results.
 
 <a href="/papers/TaxFamilies.pdf">__Collective Households and the Limits to Redistribution__</a><br>
 With Carlos da Costa
-<details>
+<details draggable=true>
 <summary><i>Abstract</i></summary>
 <p>
 This paper explores optimal distributive policies using a Collective approach to household
