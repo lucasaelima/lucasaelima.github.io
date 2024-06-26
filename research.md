@@ -19,7 +19,7 @@ framework accommodates zero market shares, which are a challenge for alternative
 I show that zeros in demand generate an endogenously censored model, which leads to moment
 inequalities. As an application, I study moving costs US internal migration data.
 </p>
-</details>
+</details><br><br>
 
 <a href="/papers/DynamicPartial.pdf">__Counterfactual Analysis for Structural Dynamic Discrete Choice Models__</a><br>
 With Myrto Kalouptsidi, Yuichi Kitamura, and Eduardo Souza-Rodrigues <br><br>
