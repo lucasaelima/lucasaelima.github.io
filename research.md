@@ -7,7 +7,8 @@ menuorder: 3
 
 ## Working Papers
 
-<a href="/papers/ZeroShares.pdf">__Flexible Demand Estimation and Zero Market Shares__</a><details>
+<a href="/papers/ZeroShares.pdf">__Flexible Demand Estimation and Zero Market Shares__</a>
+<details>
 <summary><i>Abstract</i></summary>
 <p> This paper develops a flexible discrete-choice demand framework for aggregate data sets
 that extends Berry, Levinsohn, and Pakes (1995) and the Pure Characteristics Demand Model of
