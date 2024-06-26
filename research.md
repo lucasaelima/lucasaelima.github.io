@@ -62,6 +62,7 @@ empirically evaluate the relevance of our theoretical findings. The ability to i
 has large effects on equilibrium allocations and the evaluation of optimal policies.
 </p>
 </details><br>
-
+<blockquote>
 _In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken._
 <div style="text-align: right"> Tolstoy, Anna Karenina </div>
+</blockquote>
