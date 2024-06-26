@@ -63,6 +63,6 @@ has large effects on equilibrium allocations and the evaluation of optimal polic
 </p>
 </details><br>
 <blockquote>
-_In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken._
+In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.
 <div style="text-align: right"> Tolstoy, Anna Karenina </div>
 </blockquote>
