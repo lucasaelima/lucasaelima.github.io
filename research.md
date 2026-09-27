@@ -62,7 +62,7 @@ has large effects on equilibrium allocations and the evaluation of optimal polic
   if (Math.random() < 0.5) {
     const quote = document.querySelector('.paper-quote');
     quote.querySelector('blockquote').textContent = 'Social arrangements regarding who does what, who gets to consume what, and who takes what decisions, can be seen as responses to this combined problem of co-operation and conflict.';
-    quote.querySelector('figcaption').innerHTML = 'Amartya Sen, Gender and Cooperative Conflicts (1987)';
+    quote.querySelector('figcaption').innerHTML = 'Amartya Sen, <cite>Gender and Cooperative Conflicts</cite>';
   }
 </script>
 </article>
