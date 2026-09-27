@@ -126,6 +126,8 @@ code { font-size: .9em; }
   font-style: italic;
 }
 .paper-quote figcaption { margin-top: .4rem; text-align: right; }
+.home-quote { margin: 1.1rem 0 1.5rem; }
+.home-quote blockquote { white-space: pre-line; }
 
 .site-footer {
   padding: 1rem 0 2rem;
