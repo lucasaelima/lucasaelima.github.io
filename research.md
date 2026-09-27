@@ -5,11 +5,20 @@ menutitle: Research
 menuorder: 3
 ---
 
+## Published
+
+<article class="paper">
+  <h3 class="paper-title">Counterfactual Analysis for Structural Dynamic Discrete Choice Models</h3>
+  <p class="paper-authors">With Myrto Kalouptsidi, Yuichi Kitamura, and Eduardo Souza-Rodrigues</p>
+  <p class="paper-publication"><em>The Review of Economic Studies</em> (2026). <a href="https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdag039/8675485">Publisher's version</a>.</p>
+</article>
+
 ## Working Papers
 
-<a href="/papers/ZeroShares.pdf">__Flexible Demand Estimation and Zero Market Shares__</a>
+<article class="paper">
+<h3 class="paper-title"><a href="/papers/ZeroShares.pdf">Flexible Demand Estimation and Zero Market Shares</a></h3>
 <details>
-<summary><i>Abstract</i></summary>
+<summary>Abstract</summary>
 <p> This paper develops a flexible discrete-choice demand framework for aggregate data sets
 that extends Berry, Levinsohn, and Pakes (1995) and the Pure Characteristics Demand Model of
 Berry and Pakes (2007). I provide a simple, computationally tractable, asymptotically normal
@@ -19,31 +28,14 @@ framework accommodates zero market shares, which are a challenge for alternative
 I show that zeros in demand generate an endogenously censored model, which leads to moment
 inequalities. As an application, I study moving costs US internal migration data.
 </p>
-</details><br>
+</details>
+</article>
 
-<a href="/papers/DynamicPartial.pdf">__Counterfactual Analysis for Structural Dynamic Discrete Choice Models__</a><br>
-With Myrto Kalouptsidi, Yuichi Kitamura, and Eduardo Souza-Rodrigues
+<article class="paper">
+<h3 class="paper-title"><a href="/papers/TaxFamilies.pdf">Collective Households and the Limits to Redistribution</a></h3>
+<p class="paper-authors">With Carlos da Costa</p>
 <details>
-<summary><i>Abstract</i></summary>
-<p>
-Discrete choice data allow researchers to recover differences in utilities, but these differences may not
-suffice to identify policy-relevant counterfactuals of interest. In fact, in the case of dynamic discrete
-choice models, only a narrow set of counterfactuals are point-identified. In this paper, we explore
-how much one can learn about counterfactual outcomes of interest within this framework. We focus
-on the partial identification of counterfactuals, while allowing for (mild) model restrictions that can
-gradually shrink the identified set. We derive bounds for low-dimensional objects (such as average
-welfare) as arguments of optimization programs, along with a uniformly valid inference procedure.
-Furthermore, we develop new and tractable computational tools and algorithms suitable for dealing
-with high-dimensional problems like this. Finally, we illustrate in Monte Carlos, as well as an empirical
-exercise of firms’ export decisions, the informativeness of the identified sets, and we assess the impact
-of (common) model restrictions on results.
-</p>
-</details><br>
-
-<a href="/papers/TaxFamilies.pdf">__Collective Households and the Limits to Redistribution__</a><br>
-With Carlos da Costa
-<details>
-<summary><i>Abstract</i></summary>
+<summary>Abstract</summary>
 <p>
 This paper explores optimal distributive policies using a Collective approach to household
 behavior. This approach allows individual preferences for each spouse, which is crucial when
@@ -61,8 +53,23 @@ approaches to the optimal taxation of couples. Finally, we parametrize and calib
 empirically evaluate the relevance of our theoretical findings. The ability to influence threat points
 has large effects on equilibrium allocations and the evaluation of optimal policies.
 </p>
-</details><br>
-<blockquote>
-In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.
-<div style="text-align: right"> Tolstoy, Anna Karenina </div>
-</blockquote>
+</details>
+<figure class="paper-quote">
+  <blockquote>In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.</blockquote>
+  <figcaption>Tolstoy, <cite>Anna Karenina</cite></figcaption>
+</figure>
+<script>
+  if (Math.random() < 0.5) {
+    const quote = document.querySelector('.paper-quote');
+    quote.querySelector('blockquote').textContent = 'Social arrangements regarding who does what, who gets to consume what, and who takes what decisions, can be seen as responses to this combined problem of co-operation and conflict.';
+    quote.querySelector('figcaption').innerHTML = 'Amartya Sen, Gender and Cooperative Conflicts (1987)';
+  }
+</script>
+</article>
+
+## Work in Progress
+
+<article class="paper">
+  <h3 class="paper-title">When help hurts: unintended consequences of set-aside auctions for small firms in Brazil</h3>
+  <p class="paper-authors">With Guilherme Campanha, Nathalie Gimenes, Marcelo Sant'Anna, and Victor Hugo Terziani.</p>
+</article>
