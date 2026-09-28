@@ -7,6 +7,7 @@ menuorder: 1
 
 I am an Assistant Professor at the Department of Economics at PUC-Rio, where I specialize in Structural Econometrics.
 
+<!--
 {% assign first_quote = site.data.quotes.first %}
 {% if first_quote %}
 <figure class="paper-quote home-quote" id="home-quote" data-quotes="{{ site.data.quotes | jsonify | escape }}">
@@ -28,6 +29,7 @@ I am an Assistant Professor at the Department of Economics at PUC-Rio, where I s
   }
 </script>
 {% endif %}
+-->
 
 ## Fields:
 
